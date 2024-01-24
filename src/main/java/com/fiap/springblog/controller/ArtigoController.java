@@ -1,4 +1,10 @@
 package com.fiap.springblog.controller;
+/**
+ * Autor: Lucas Oliveira
+ * Data: 22/01/2024
+ * Serviços disponiveis para Consumo da aplicação
+ */
+
 
 import com.fiap.springblog.model.*;
 import com.fiap.springblog.service.ArtigoService;
